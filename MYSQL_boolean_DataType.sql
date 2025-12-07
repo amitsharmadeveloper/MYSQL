@@ -1,3 +1,13 @@
+-- MySQL Boolean & BIT Data Types Practice
+-- Author: Amit Sharma
+-- Purpose: This SQL file demonstrates how MySQL handles boolean values using 
+--          BIT and BOOLEAN data types. It includes inserting boolean values, 
+--          converting BIT output for readability, and using IF() to display 
+--          TRUE/FALSE instead of 1/0.
+-- Usage: Execute this file in any MySQL environment to understand how boolean 
+--        values are stored, retrieved, and formatted for display.
+
+
 create table booleandatatype(is_present bit);
 
 
